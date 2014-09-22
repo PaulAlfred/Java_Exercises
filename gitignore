@@ -10,5 +10,8 @@ local.properties
 proguard/
 *.log
 R.*
-
+*.classpath
+*.project
+*.settings/
+src/
 
