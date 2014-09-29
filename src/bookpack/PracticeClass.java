@@ -30,5 +30,11 @@ public class PracticeClass  extends Book implements iInfo {
 		ISN_num = isn;
 		return ISN_num;
 	}
+
+	@Override
+	public void show2() 
+	{
+		System.out.println("That show2 method was just a test");
+	}
 	
 }
